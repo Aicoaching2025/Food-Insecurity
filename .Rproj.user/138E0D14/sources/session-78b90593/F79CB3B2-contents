@@ -1,0 +1,253 @@
+---
+title: "Food Insecurity in the United States"
+subtitle: "A Congressional Brief"
+author: "Candace Grant · Birds and Roses LLC"
+date: "2026-06-10"
+format:
+  revealjs:
+    theme: [default, deck-theme.scss]
+    width: 1600
+    height: 900
+    slide-number: c/t
+    footer: "Candace Grant · Birds and Roses LLC · 2026"
+    transition: fade
+    transition-speed: fast
+    incremental: false
+    progress: true
+    chalkboard: false
+    embed-resources: true
+    fig-align: center
+---
+
+## The problem {.scale-slide}
+
+::: {.r-stretch}
+![](figures/01_problem_scale.png){fig-align="center"}
+:::
+
+::: {.notes}
+SPEAKER NOTES — Slide 1: The Problem
+
+Open with the scale.
+
+47.4 million Americans live in food-insecure households today. That includes
+1 in 5 American children. This is not a fringe issue — it touches every
+state, every congressional district, every school in the country.
+
+The chart on the right shows why: at the state level, poverty and food
+insecurity move together. The correlation is r = 0.75. Where poverty is high,
+hunger follows.
+
+This is the foundation of the brief. The next slide goes one level deeper
+into how poverty drives food insecurity — and then we'll look at who is
+most affected.
+
+Pause for ~3 seconds before advancing. Let the scale of the number land.
+:::
+
+
+## Poverty drives food insecurity {.scale-slide}
+
+::: {.r-stretch}
+![](figures/08_poverty_gradient.png){fig-align="center"}
+:::
+
+::: {.notes}
+SPEAKER NOTES — Slide 2: Poverty Gradient
+
+If you remember one statistic from this presentation, remember this: when
+a family's income rises above 185% of the federal poverty line — the same
+threshold the federal government already uses for WIC eligibility and
+reduced-price school meals — food insecurity drops 5×.
+
+39.4% of households below the poverty line are food insecure. Above 185%
+of poverty, only 7.9% are.
+
+This is not a coincidence. The federal nutrition assistance programs were
+designed to cover precisely the populations where food insecurity is
+concentrated — and they do. The question for Congress is not whether
+nutrition assistance works. It does. The question is whether to fund it
+at the level the data demands.
+
+Source: USDA ERR-358, 2024.
+:::
+
+
+## Food insecurity is a story of who, not just how many {.scale-slide}
+
+::: {.r-stretch}
+![](figures/09_who_is_affected.png){fig-align="center"}
+:::
+
+::: {.notes}
+SPEAKER NOTES — Slide 3: Who is Affected
+
+The national rate hides a story.
+
+1 in 3 female-headed households in America are food insecure — 36.8%.
+Black households: 24.4%. Hispanic households: 20.2%. Households with
+children: 18.4%. The U.S. average is 13.7%, shown by the dashed line.
+
+Food insecurity is not evenly distributed. It is concentrated in the
+households that are also most economically vulnerable: single mothers,
+households of color, and families with children.
+
+This matters for policy design. A program that targets the average will
+miss the populations who need it most. Programs designed around these
+disparities — like school meals, WIC, and SNAP for families with kids —
+are the ones that move these numbers.
+
+Source: USDA ERR-358, 2024.
+:::
+
+
+## The pandemic-era safety net worked. Then it expired. {.scale-slide}
+
+::: {.r-stretch}
+![](figures/02_trend_reversal.png){fig-align="center"}
+:::
+
+::: {.notes}
+SPEAKER NOTES — Slide 4: The Trend Reversal
+
+This is the most important policy slide in the deck.
+
+Look at 2021. We were in the middle of a global pandemic. Food insecurity
+should have spiked. Instead, it dropped to 10.2% — the lowest rate ever
+recorded in the United States since USDA began tracking this in 1995.
+
+That wasn't an accident. Congress had passed the expanded Child Tax
+Credit, SNAP emergency allotments, P-EBT for kids when schools closed,
+and three rounds of stimulus. The Child Tax Credit alone sent monthly
+checks to families with children for the second half of 2021.
+
+When those programs expired — the CTC expanded version ended December 2021,
+SNAP emergency allotments fully ended in March 2023 — food insecurity
+climbed 3.5 percentage points. That's roughly 13 million additional people
+who became food insecure in just three years.
+
+We have proof of what works. We just stopped doing it. The remaining
+slides show what reversing this costs us, and what acting on it would
+gain.
+
+Source: USDA ERR-358, 2024.
+:::
+
+
+## Food-insecure adults face higher disease prevalence {.scale-slide}
+
+::: {.r-stretch}
+![](figures/03_disease_burden.png){fig-align="center"}
+:::
+
+::: {.notes}
+SPEAKER NOTES — Slide 5: Disease Burden
+
+Food insecurity is not just about hunger today. It is about disease tomorrow.
+
+These are weighted prevalence rates from NHANES, the CDC's national
+health survey, comparing food-insecure to food-secure adults. Obesity is
+46.2% versus 40.7%. Hypertension is 40.3% versus 39.3%. Diabetes is 10.6%
+versus 10.0%.
+
+These differences may look modest, but applied across 35 million
+food-insecure adults nationally, the obesity gap alone represents
+roughly 1.9 million additional cases attributable to food insecurity.
+
+The cost of those additional cases — to Medicare, Medicaid, and private
+insurance — is $52.9 billion every year. That number is from Berkowitz et
+al. (2018) in Health Affairs, the most rigorous economic analysis of
+food insecurity's healthcare cost on record.
+
+A note on methodology: the published literature on older NHANES cycles
+reports larger disparities than what you see here. The 2017-2020 cycle
+shows narrower differences. We're presenting our own analysis of the
+most recent data rather than older quoted figures — methodological
+honesty matters when the numbers go to Congress.
+
+Source: NHANES 2017-March 2020; Berkowitz et al. (2018) Health Affairs.
+:::
+
+
+## Children with food assistance grow into healthier, more self-sufficient adults {.scale-slide}
+
+::: {.r-stretch}
+![](figures/04_lifetime_cost.png){fig-align="center"}
+:::
+
+::: {.notes}
+SPEAKER NOTES — Slide 6: Lifetime Cost
+
+This is the children-to-adults slide. The most cited research on this
+question is Hoynes, Schanzenbach and Almond (2016), American Economic Review.
+
+They studied the rollout of the Food Stamp Program in the 1960s and 70s,
+which expanded county by county over more than a decade. That gave them
+a natural experiment: kids who got food assistance versus kids in
+neighboring counties who didn't, all else roughly equal.
+
+The kids who received food assistance, when followed into adulthood,
+showed lower rates of metabolic syndrome (-27%), heart disease (-22%),
+adult obesity (-21%), high blood pressure (-16%), and diabetes (-10%).
+On the economic side, women who grew up with food assistance had +29%
+higher economic self-sufficiency in adulthood, +6% higher earnings, and
+-13% reliance on transfer programs.
+
+The most recent extension of this work — Bailey, Hoynes, Rossin-Slater
+and Walker (2020), using Social Security Administration earnings records
+and 17 million people — finds a marginal value of public funds of 56-to-1.
+For every $1 the federal government invested in early-childhood food
+assistance, society got $56 of social benefit back in healthier adults,
+higher earnings, lower disability claims, and longer lives.
+
+Children who eat become functional adults. Children who don't, become
+permanent costs. This is the strongest financial argument for early
+nutrition investment that exists in the economics literature.
+
+Source: Hoynes, Schanzenbach and Almond (AER 2016); Bailey et al. (NBER 2020).
+:::
+
+
+## 8 states acted. 42 are waiting. {.scale-slide}
+
+::: {.r-stretch}
+![](figures/05_universal_meals_evidence.png){fig-align="center"}
+:::
+
+::: {.notes}
+SPEAKER NOTES — Slide 7: The Fix
+
+This is the call to action.
+
+8 states have implemented universal free school meals as of the 2024-25
+school year: California, Maine, Colorado, Minnesota, New Mexico,
+Vermont, Massachusetts, and Michigan. Together they represent the
+largest natural experiment in nutrition policy currently running in
+the United States.
+
+The measured outcomes from those states: school lunch participation
+up 6%, an additional 233,656 daily meals served, household food
+insecurity down 5.1% in families with children, childhood obesity down
+0.6 percentage points in California's CEP schools, school suspensions
+down 0.7 percentage points in Oregon.
+
+These are real numbers from real states. The cost is approximately
+$700 per child per year. The Berkowitz et al. healthcare-cost
+research suggests every $1 invested in food security generates roughly
+$2.60 in healthcare savings — and the Bailey et al. lifetime work
+suggests $56 in total social return.
+
+42 states have not yet acted. Federal action — universal free school
+meals nationwide, restoration of the expanded Child Tax Credit,
+permanent SNAP emergency allotments, full WIC funding — would extend
+the proven results from these 8 states to the entire country.
+
+The data is unambiguous. The evidence base is decades deep. The cost
+per child is small. The lifetime return is enormous. This is not a
+partisan question. It's an arithmetic one.
+
+Thank you.
+
+Source: FRAC State of Healthy School Meals for All (2024); California
+Department of Education; Oregon Department of Education.
+:::
