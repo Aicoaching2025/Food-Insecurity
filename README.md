@@ -114,8 +114,7 @@ All analyses were conducted in R from publicly accessible federal data. The full
 ## About
 
 **Author:** Candace Grant, Birds and Roses LLC
-**Affiliation:** M.S. Data Science, CUNY School of Professional Studies
 **Repository:** https://github.com/Aicoaching2025/Food-Insecurity
 
 Citation:
-> Grant, C. (2026). *Food Insecurity in the United States: A Congressional Brief.* Birds and Roses LLC.
+> Grant, C. (2026). *Food Insecurity in the United States: A Congressional Brief.
